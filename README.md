@@ -35,7 +35,7 @@ A weather application using OpenWeatherMap API and GeoDB API with places autocom
   
 </div>
 
-- [Method pushing Vscode from Linux system to Github branch](https://stackoverflow.com/questions/45891052/vs-code-how-to-use-github-with-existing-local-project):<br/>
+- [Method pushing Vscode from Windows system to Github branch](https://stackoverflow.com/questions/45891052/vs-code-how-to-use-github-with-existing-local-project):<br/>
 In Vscode Terminal: <br/>
 `git init .`<br/> 
 `git config --global user.name <yourGitHubAccount>`<br/> 
@@ -62,11 +62,6 @@ Change New Branch in Github account `branches` section into Default Branch. <br/
 |   OS             | Supported          |
 | -------          | ------------------ |
 | Windows 10       | :white_check_mark: |
-| macOS Mojave     | :white_check_mark: |             
-| macOS Monterey   | :white_check_mark: |
-| Linux            | :white_check_mark: |
-| Linux Kernel     | :white_check_mark: |
-| Ubuntu           | :white_check_mark: |
 
 # Method to Run & Test the Project Locally
 
