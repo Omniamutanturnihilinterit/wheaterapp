@@ -80,7 +80,7 @@ Sign up, and subscribe to the `GeoDB Cities API Test` -> `Endpoints` -> `Cities`
 Then we have all code snippets and optional parameters to choose. <br/>
 Go to [OpenWeather](https://openweathermap.org/): <br/>
 Sign up. In My Account generated my unique API keys and services. <br/>
-In `Linux Ubuntu Terminal`:<br/>
+In `Windows Terminal`:<br/>
 `npx create-react-app react-weather-app`<br/>
 This will take a few minutes to install the React App packages, it is ready once terminal says:<br/>
 `we suggest that you begin by typing:`<br/>
