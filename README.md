@@ -12,8 +12,7 @@ A weather application using OpenWeatherMap API and GeoDB API with places autocom
 
 
 # :hammer_and_wrench: Developing Languages, Tools, and Techniques Needed
-[Windows 10 Linux Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)<br/>
-[Visual Studio Code IDE 2022](https://visualstudio.microsoft.com/vs/)<br/>
+[Visual Studio Code IDE 2022](https://code.visualstudio.com)<br/>
 [NodeJS(node-v16.17.1-x64)](https://nodejs.org/ca/blog/release/v16.17.1/)<br/>
 [JavaScript](https://www.javascript.com)<br/>
 [React JS App](https://reactjs.org/docs/create-a-new-react-app.html)<br/>
