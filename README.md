@@ -1,9 +1,5 @@
 # OmniaMutantur-WeatherNavigation App
 A weather application using OpenWeatherMap API and GeoDB API with places autocomplete, with React skills. <br/>
-## ***[Copyright and Commercial Use Disclaimer](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/README.md#please-carefully-read-licensemd-about-the-open-source-restrictions-and-the-personal-use-policy-of-this-project-under-gpl-30-license-any-commericial-uses-on-this-project-by-other-than-the-owner-krystalzhang612-or-the-authorized-users-and-organizations-including-unauthorized-modifications-forks-pull-requests-and-other-commercial-related-uses-will-be-subjected-to-copyright-violation-with-sebsequent-legal-concerns)*** 
-⏬
-### ***Please carefully read [LICENSE.md](https://github.com/KrystalZhang612/KrystalZhang-WeatherNavigation-App/blob/newbranch/LICENSE) about the Open Source restrictions and the personal use policy of this project under [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html), any commericial uses on this project by other than the owner [@KrystalZhang612](https://github.com/KrystalZhang612) or the authorized users and organizations, including unauthorized modifications, forks, pull requests, and other commercial-related uses will be subjected to copyright violation with sebsequent legal concerns.***
-
 
 ## WeatherNavigator App Overview:<br/>
 ![Screenshot](https://github.com/KrystalZhang612/WeatherNavigation-App/blob/newbranch/nyc%20weather%20overview1.png)<br/> 
@@ -17,7 +13,7 @@ A weather application using OpenWeatherMap API and GeoDB API with places autocom
 
 # :hammer_and_wrench: Developing Languages, Tools, and Techniques Needed
 [Windows 10 Linux Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)<br/>
-[Visual Studio IDE 2022](https://visualstudio.microsoft.com/vs/)<br/>
+[Visual Studio Code IDE 2022](https://visualstudio.microsoft.com/vs/)<br/>
 [NodeJS(node-v16.17.1-x64)](https://nodejs.org/ca/blog/release/v16.17.1/)<br/>
 [JavaScript](https://www.javascript.com)<br/>
 [React JS App](https://reactjs.org/docs/create-a-new-react-app.html)<br/>
